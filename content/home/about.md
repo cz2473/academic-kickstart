@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "LL.M.,"
+  course = "LL.M."
   institution = "Columbia Law School"
   year = "expected 2018"
 
