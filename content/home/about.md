@@ -18,12 +18,12 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "LL.M. Candidate"
-  institution = "Columbia University"
+  institution = "Columbia Law School"
   year = 2018
 
 [[education.courses]]
   course = "Bachelor of Laws (LL.B.)"
-  institution = "Peking University"
+  institution = "Peking University Law School"
   year = 2014
 
 +++
