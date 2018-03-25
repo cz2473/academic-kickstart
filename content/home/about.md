@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "LL.M.,"
   institution = "Columbia Law School"
-  year = expected 2018
+  year = "expected 2018"
 
 [[education.courses]]
   course = "Bachelor of Laws (LL.B.)"
