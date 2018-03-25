@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Intellectual Property",
     "Dispute Resolution",
+    "M&A",
     "Legal Techonologies"
   ]
 
