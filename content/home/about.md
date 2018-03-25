@@ -9,7 +9,7 @@ weight = 5
 
 # List your academic interests.
 [interests]
-  interests = ["Intellectual Property",
+  interests = [ "Intellectual Property",
     "Dispute Resolution",
     "M&A",
     "Legal Techonologies"
