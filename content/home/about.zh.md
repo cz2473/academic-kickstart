@@ -24,7 +24,7 @@ weight = 5
 [[education.courses]]
   course = "法学学士 (LL.B.)"
   institution = "北京大学法学院"
-  year = 2014年
+  year = "2014年"
 
 +++
 
