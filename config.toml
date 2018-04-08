@@ -1,4 +1,4 @@
-# Configuration of Academic
+ï»¿# Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 
 # The URL of your website.
@@ -264,22 +264,22 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[Languages.zh.menu.main]]
-  name = "Zhuye"
+  name = "ä¸»é¡µ"
   url = "#about"
   weight = 1
 
 [[Languages.zh.menu.main]]
-  name = "Öø×÷"
+  name = "è‘—ä½œ"
   url = "#publications_selected"
   weight = 2
 
 [[Languages.zh.menu.main]]
-  name = "ÏîÄ¿"
+  name = "é¡¹ç›®"
   url = "#projects"
   weight = 3
 
 [[Languages.zh.menu.main]]
-  name = "ÁªÏµ·½Ê½"
+  name = "è”ç³»æ–¹å¼"
   url = "#contact"
   weight = 4
 
