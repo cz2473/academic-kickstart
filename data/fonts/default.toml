@@ -2,12 +2,12 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Reem+Kufi|Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+google_fonts = "Reem+Kufi|Montserrat:300|Roboto:400,400italic,700|Roboto+Mono"
 
 # Font families
-heading_font = "Reem Kufi"
+heading_font = "Montserrat"
 body_font = "Roboto"
-nav_font = "Roboto"
+nav_font = "Reem Kufi"
 mono_font = "Roboto Mono"
 
 # Font size
