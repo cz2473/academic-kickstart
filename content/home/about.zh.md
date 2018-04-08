@@ -30,4 +30,5 @@ weight = 5
 
 # Biography
 
-Chi Zhang is a LL.M. student at Columbia Law School.
+
+张驰毕业于北京大学法学院。
