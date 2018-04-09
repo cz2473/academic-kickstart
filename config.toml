@@ -264,22 +264,22 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[Languages.zh.menu.main]]
-  name = "Home"
+  name = "Zhuye"
   url = "#about"
   weight = 1
 
 [[Languages.zh.menu.main]]
-  name = "Publications"
+  name = "著作"
   url = "#publications_selected"
   weight = 2
 
 [[Languages.zh.menu.main]]
-  name = "Projects"
+  name = "项目"
   url = "#projects"
   weight = 3
 
 [[Languages.zh.menu.main]]
-  name = "Contact"
+  name = "联系方式"
   url = "#contact"
   weight = 4
 
