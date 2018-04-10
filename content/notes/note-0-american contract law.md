@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "American Contract Law"
 
 # Project summary to display on homepage.
-summary = "American Contract Law Outline, Columbia Law School, Fall 2017, Prof. Kraus"
+summary = "American Contract Law Outline, Prof. Kraus"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "boards.jpg"
