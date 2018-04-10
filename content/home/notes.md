@@ -42,3 +42,5 @@ filter_default = 0
 
 +++
 Chi Zhang took notes for many interesting courses.
+
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
