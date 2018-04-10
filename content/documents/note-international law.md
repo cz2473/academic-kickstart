@@ -16,7 +16,7 @@ image_preview = "boards.jpg"
 tags = ["demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "documents/李鸣-国际公法笔记-12年秋.pdf"
+external_link = "documents/啦啦啦.htm"
 
 # Does the project detail page use math formatting?
 math = false
