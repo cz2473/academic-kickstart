@@ -33,14 +33,13 @@ filter_default = 0
 #   tag = "*"
 #  
 # [[filter]]
-#   name = "Deep Learning"
-#   tag = ".deep-learning"
+#   name = "English"
+#   tag = ".English"
 #
 # [[filter]]
-#   name = "Other"
-#   tag = ".demo"
+#   name = "Chinese"
+#   tag = ".Chinese"
 
 +++
 Chi Zhang took notes for many interesting courses.
 
-{{% staticref "files/cv.html" %}}Download my CV{{% /staticref %}}
