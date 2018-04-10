@@ -16,7 +16,7 @@ image_preview = "boards.jpg"
 tags = ["demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "documents/啦啦啦.html"
+external_link = "www.google.com"
 
 # Does the project detail page use math formatting?
 math = false
