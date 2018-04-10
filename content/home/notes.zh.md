@@ -1,10 +1,10 @@
-+++
+ï»¿+++
 # Projects widget.
 widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "¿ÎÌÃ±Ê¼Ç"
+title = "è¯¾å ‚ç¬”è®°"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -41,4 +41,4 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
-ÕÅ³ÛÔÚ±±¾©´óÑ§ºÍ¸çÂ×±ÈÑÇ´óÑ§ÆÚ¼ä¼ÇÁËºÜ¶à±Ê¼Ç¡£
+å¼ é©°åœ¨åŒ—äº¬å¤§å­¦å’Œå“¥ä¼¦æ¯”äºšå¤§å­¦æœŸé—´è®°äº†å¾ˆå¤šç¬”è®°ã€‚

@@ -1,11 +1,11 @@
-+++
+О╩©+++
 # Recent Publications widget.
 # This widget displays recent publications from `content/articles/`.
 widget = "publications"
 active = true
 date = 2016-04-20
 
-title = "тсл╦ндуб"
+title = "Ф²┌Х╟┬Ф√┤Г╚═"
 subtitle = ""
 
 # Order that this section will appear in.
