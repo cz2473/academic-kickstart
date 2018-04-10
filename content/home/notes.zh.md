@@ -1,4 +1,4 @@
-4+++
++++
 # Projects widget.
 widget = "projects"
 active = true
