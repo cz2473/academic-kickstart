@@ -249,39 +249,59 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[Languages.en.menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Solutions"
+  url = "#solutions"
   weight = 2
 
 [[Languages.en.menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Writings"
+  url = "#writings"
   weight = 3
+
+[[Languages.en.menu.main]]
+  name = "Notes"
+  url = "#notes"
+  weight = 4
+
+[[Languages.en.menu.main]]
+  name = "Articles"
+  url = "#articles"
+  weight = 5
 
 [[Languages.en.menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 6
 
 [[Languages.zh.menu.main]]
-  name = "Zhuye"
+  name = "主页"
   url = "#about"
   weight = 1
 
 [[Languages.zh.menu.main]]
-  name = "著作"
-  url = "#publications_selected"
+  name = "解决方案"
+  url = "#solutions"
   weight = 2
 
 [[Languages.zh.menu.main]]
-  name = "项目"
-  url = "#projects"
+  name = "法律文书"
+  url = "#writings"
   weight = 3
+
+[[Languages.zh.menu.main]]
+  name = "课堂笔记"
+  url = "#notes"
+  weight = 4
+
+[[Languages.zh.menu.main]]
+  name = "杂谈文章"
+  url = "#articles"
+  weight = 5
 
 [[Languages.zh.menu.main]]
   name = "联系方式"
   url = "#contact"
-  weight = 4
+  weight = 6
 
 # Taxonomies.
 [taxonomies]
