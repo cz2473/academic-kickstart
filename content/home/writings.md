@@ -5,6 +5,8 @@ widget = "publications"
 active = true
 date = 2016-04-20
 
+folder = "writings"
+
 title = "Writings"
 subtitle = ""
 
