@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Jus-try
+title = "Jus-try"
 
 # Project summary to display on homepage.
-summary = "Jurispendence, Prof. Jiang"
+summary = "Jurispendence, Prof. Jiang-1"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "boards.jpg"
