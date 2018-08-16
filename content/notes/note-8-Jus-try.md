@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Jurispendence"
+title = "Jus-try
 
 # Project summary to display on homepage.
 summary = "Jurispendence, Prof. Jiang"
